@@ -4,6 +4,10 @@ Rails.application.configure do
   config.assets.compile = true
 
   Rails.application.config.assets.compile = true
+  config.assets.debug = true
+  config.assets.compile = true
+
+
 
 
   # Settings specified here will take precedence over those in config/application.rb.

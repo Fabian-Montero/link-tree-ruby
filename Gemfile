@@ -4,7 +4,7 @@ source "https://rubygems.org"
 # Custom gems
 
 gem 'devise', '~> 4.9', '>= 4.9.3'
-
+gem 'friendly_id', '~> 5.4.0'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 8.0.1"
